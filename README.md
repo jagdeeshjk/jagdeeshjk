@@ -5,9 +5,9 @@
 🌐 [LinkedIn](https://www.linkedin.com/in/jagdeesh-meena/) | [GitHub](https://github.com/jagdeeshjk)
 
 ## 🚀 Technical Skills
-- **Languages:** C, C++, HTML, CSS, JavaScript, Python, MATLAB
+- **Languages:** C, C++, HTML, CSS, Python,
 - **Tools & Platforms:** Git, GitHub, SolidWorks, Fusion 360, Blender, Arduino IDE
-- **Frameworks & Libraries:** React.js, Node.js, Material-UI, MediaPipe, OpenCV
+- **Frameworks & Libraries:** React.js
 
 ## 📂 Notable Projects
 ### [Course Helper Website](https://github.com/jagdeeshjk/course-helper)
@@ -22,8 +22,6 @@
 - MATLAB Simulink
 - Outperforms ICEs by achieving 62.39% system efficiency.
 
-### [Food Waste Management Report](https://github.com/jagdeeshjk/food-waste-management)
-- Survey + data analysis project from MBA-618 course at IITK
 
 ---
 
