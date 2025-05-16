@@ -2,12 +2,11 @@
 
 🎓 3rd Year Undergraduate, Mechanical Engineering, IIT Kanpur  
 📧 jagdeeshm22@iitk.ac.in  
-🌐 [LinkedIn](https://www.linkedin.com/in/jagdeesh-meena/) | [GitHub](https://github.com/jagdeeshjk)
-
+🌐 [LinkedIn](https://www.linkedin.com/in/jagdeesh-meena/) 
 ## 🚀 Technical Skills
 - **Languages:** C, C++, HTML, CSS, Python,
-- **Tools & Platforms:** Git, GitHub, SolidWorks, Fusion 360, Blender, Arduino IDE
-- **Frameworks & Libraries:** React.js
+- **Tools & Platforms:** SolidWorks, Fusion 360, Blender, Arduino IDE
+
 
 ## 📂 Notable Projects
 ### [Course Helper Website](https://github.com/jagdeeshjk/GDG_Task)
